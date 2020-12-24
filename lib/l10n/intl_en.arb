@@ -1,0 +1,22 @@
+{
+  "app_title": "Flutter Base Project",
+  "back": "Back",
+  "cancel": "Cancel",
+  "cannot_connect_to_server_please_retry": "Cannot connect to server, please retry.",
+  "info": "Info",
+  "loading": "Loading...",
+  "logged_out": "Logged out.",
+  "logging_in": "Logging in...",
+  "login": "Login",
+  "logout": "Logout",
+  "ok": "OK",
+  "only_accept_integer": "Only accept integer.",
+  "only_accept_numeric": "Only accept numeric.",
+  "oops": "Oops!",
+  "please_login": "Please login.",
+  "request_error_please_retry": "Request error, please retry.",
+  "required_field": "Required field.",
+  "retype_password": "Re-type Password",
+  "success": "Success",
+  "yes": "Yes"
+}
